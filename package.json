@@ -1,0 +1,8 @@
+{
+  "name": "node-xmr",
+  "version": "0.0.1",
+  "description": "Monero light wallet module",
+  "dependencies": {
+    "cmake-js": "^3.3.1"
+  }
+}
